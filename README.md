@@ -971,3 +971,24 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2> 6 Buddhist Books To Read On Your Path To Enlightenment</h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Buddhism/blob/master/budd(1).pdf" style="text-decoration:none;">The Heart of the Buddha's Teaching</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Buddhism/blob/master/budd(2).pdf" style="text-decoration:none;">On the Path to Enlightenment: Heart Advice from the Great Tibetan Masters</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Buddhism/blob/master/budd(3).pdf" style="text-decoration:none;">Zen Mind, Beginner's Mind</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Buddhism/blob/master/budd(4).pdf" style="text-decoration:none;">When Things Fall Apart: Heart Advice for Difficult Times</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Buddhism/blob/master/budd(5).pdf" style="text-decoration:none;"> Radiant Mind: Awakening Unconditioned Awareness</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Buddhism/blob/master/budd(6).pdf" style="text-decoration:none;">Mindfulness In Plain English</a></li>
+</ul>
+
+
+
+
+
